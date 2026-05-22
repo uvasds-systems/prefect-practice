@@ -1,0 +1,14 @@
+{
+  "total_records": 100,
+  "total_revenue": 52036.610745313104,
+  "average_purchase": 520.366107453131,
+  "premium_customers": 53,
+  "discount_eligible_customers": 82,
+  "region_distribution": {
+    "East": 35,
+    "South": 25,
+    "West": 22,
+    "North": 18
+  },
+  "processed_at": "2026-05-22T11:58:19.589617"
+}
